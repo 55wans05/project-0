@@ -1,5 +1,7 @@
 # UOCIS322 - Project 0
 
+Stephen Swanson - [sswanso5@uoregon.edu](mailto:sswanso5@uoregon.edu)
+
 Trivial project to exercise version control, turn-in, and other mechanisms
 for CIS 322.
 
